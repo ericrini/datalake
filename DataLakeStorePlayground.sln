@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLakeStorePlayground", "DataLakeStorePlayground\DataLakeStorePlayground.csproj", "{727C662B-6578-4BA0-90CC-C115A302F71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727C662B-6578-4BA0-90CC-C115A302F71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727C662B-6578-4BA0-90CC-C115A302F71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727C662B-6578-4BA0-90CC-C115A302F71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727C662B-6578-4BA0-90CC-C115A302F71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0DD1F1-388C-4D59-A96D-3CC08C851856}
+	EndGlobalSection
+EndGlobal
