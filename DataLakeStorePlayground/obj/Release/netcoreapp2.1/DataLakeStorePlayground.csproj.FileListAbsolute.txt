@@ -1,0 +1,11 @@
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\sample.json
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\DataLakeStorePlayground.deps.json
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\DataLakeStorePlayground.runtimeconfig.json
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\DataLakeStorePlayground.runtimeconfig.dev.json
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\DataLakeStorePlayground.dll
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Release\netcoreapp2.1\DataLakeStorePlayground.pdb
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\obj\Release\netcoreapp2.1\DataLakeStorePlayground.csproj.CoreCompileInputs.cache
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\obj\Release\netcoreapp2.1\DataLakeStorePlayground.AssemblyInfoInputs.cache
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\obj\Release\netcoreapp2.1\DataLakeStorePlayground.AssemblyInfo.cs
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\obj\Release\netcoreapp2.1\DataLakeStorePlayground.dll
+C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\obj\Release\netcoreapp2.1\DataLakeStorePlayground.pdb
