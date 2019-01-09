@@ -22,8 +22,8 @@ namespace DataLakeStorePlayground
                 long totalWriteMs = 0;
                 ServiceClientCredentials credentials = await GetCredentials("5818bd20-bf25-47b1-b996-d419d7e6e8ba", "392fe526-dbc0-46a4-b7fb-dd1f1ec3e7b5", "CUfsbfPQaZXm4AfTFVlUwZzFkaE/Jx5lz7EN4XrP5HU=");
                 AdlsClient client = AdlsClient.CreateClient(@"erini.azuredatalakestore.net", credentials);
-                string text = await File.ReadAllTextAsync(@".\sample.json");
-                byte[] content = Encoding.UTF8.GetBytes(text);
+                byte[] content = new byte[1024];
+                new Random().NextBytes(content);
                 var stopwatch = new Stopwatch();
 
                 for (int i = 0; i < iterations; i++)

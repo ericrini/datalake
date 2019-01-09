@@ -1,4 +1,3 @@
-C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Debug\netcoreapp2.1\sample.json
 C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Debug\netcoreapp2.1\DataLakeStorePlayground.deps.json
 C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Debug\netcoreapp2.1\DataLakeStorePlayground.runtimeconfig.json
 C:\Itron\DataLakeStorePlayground\DataLakeStorePlayground\bin\Debug\netcoreapp2.1\DataLakeStorePlayground.runtimeconfig.dev.json
